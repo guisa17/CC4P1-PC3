@@ -1,0 +1,28 @@
+
+‘
+java:S1104"NMake db a static final constant or non-public and provide accessors if needed.(İÓ¬8ùñÁÑü1J$29ff3595-1636-4988-bad9-e5c0a2925ed5
+k
+java:S1444"(Make this "public static db" field final(İÓ¬8úñÁÑü1J$e39682b4-ec1c-40a2-8574-07f3eccea118
+
+java:S2095$"EUse try-with-resources or close this "Channel" in a "finally" clause.(Ñ…§¦ıÿÿÿÿ8ŒòÁÑü1J$4b4f58e2-ea1d-405e-9a6a-4970fe906abf
+‡
+java:S2095%"EUse try-with-resources or close this "Channel" in a "finally" clause.(ªí—W8òÁÑü1J$5770074b-1ab5-4fa0-a10e-e6b76b0d02ab
+‹
+java:S2095 "HUse try-with-resources or close this "Connection" in a "finally" clause.(Ãø€¥8òÁÑü1J$848d63b0-a929-4978-baf9-9ff1081ee66c
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(«ü¤Éÿÿÿÿÿ8Ï†»àü1J$dee3e753-0be5-47ab-a7af-5fee92096fa3
+m	java:S106*"+Replace this use of System.out by a logger.(æĞ8›òÁÑü1J$8312cfec-2aef-4c75-83a1-016570debfd2
+m	java:S1061"+Replace this use of System.out by a logger.(×™Ûó8 òÁÑü1J$476544a0-2dc7-4231-802b-29236c31e73c
+r	java:S106;"+Replace this use of System.out by a logger.(˜×øÿÿÿÿÿ8¤òÁÑü1J$49aa0176-08e1-46c1-9f62-7dd9f8547d8f
+r	java:S106>"+Replace this use of System.out by a logger.(§‹£»ûÿÿÿÿ8¦òÁÑü1J$9831c061-a906-4597-8e48-66ac896b990c
+m	java:S106M"+Replace this use of System.out by a logger.(˜Ç¾™8­òÁÑü1J$51106e32-096d-44b2-8984-9288b4c6827e
+s
+java:S1128
+"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8°òÁÑü1J$11914244-ae87-4ad1-908c-a2d0c65eb52d
+v
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8°òÁÑü1J$941c2e02-b081-49e7-95df-0aa906065e4c
+
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8±òÁÑü1J$6c053b73-c998-4dd9-b477-b47852e19e0f
+u
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8±òÁÑü1J$9e3e0b5f-49d7-4fa2-86a1-6e659b1973ad
+…
+java:S1128"BRemove this unused import 'java.util.concurrent.TimeoutException'.(£‡Ì8±òÁÑü1J$31981f01-cacd-45ac-a95b-394715e81d43
